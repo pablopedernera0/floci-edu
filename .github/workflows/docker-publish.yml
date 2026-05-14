@@ -1,4 +1,4 @@
-name: Publicar floci-panel en GHCR
+name: Publicar floci-panel en GHCR v4
 
 on:
   push:
