@@ -1,4 +1,4 @@
 floci-edu/
-    .github/
-       workflows/
-          docker-publish.yml
+     .github/
+        workflows/
+           docker-publish.yml
