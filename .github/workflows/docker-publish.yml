@@ -1,0 +1,4 @@
+floci-edu/
+    .github/
+       workflows/
+          docker-publish.yml
